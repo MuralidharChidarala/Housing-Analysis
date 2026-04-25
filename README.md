@@ -167,8 +167,8 @@ This project highlights the following skills:
 ![image](https://github.com/MuralidharChidarala/Housing-Analysis/blob/ee544400099b7e238a0afd5c78668a9e8ace5afc/Page3.png)
 ## Sales Analysis
 ![image](https://github.com/MuralidharChidarala/Housing-Analysis/blob/dcbd02a53897b1e4e8b91b77562459c41df17770/Page2.png)
-## 
-![image](https://github.com/MuralidharChidarala/Ola-Analysis/blob/b3750464f2dea66bd214ab3e044bc9dd1e780319/Screenshot%202026-04-24%20163544.png)
+## House Type Analysis
+![image](https://github.com/MuralidharChidarala/Housing-Analysis/blob/243c538a0d2fff031633e8ffcf5746e2a676ac49/Page1.png)
 
 
 
