@@ -164,7 +164,7 @@ This project highlights the following skills:
 ## Screenshot of the Project 
 
 ## Housing Overview
-![image](https://github.com/MuralidharChidarala/Ola-Analysis/blob/b3750464f2dea66bd214ab3e044bc9dd1e780319/Screenshot%202026-04-24%20163544.png)
+![image](https://github.com/MuralidharChidarala/Housing-Analysis/blob/ee544400099b7e238a0afd5c78668a9e8ace5afc/Page3.png)
 
 ![image](https://github.com/MuralidharChidarala/Ola-Analysis/blob/b3750464f2dea66bd214ab3e044bc9dd1e780319/Screenshot%202026-04-24%20163544.png)
 
