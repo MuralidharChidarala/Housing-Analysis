@@ -167,16 +167,19 @@ This project highlights the following skills:
 > This dashboard analyzes different house types such as Farm, Apartment, Villa, Townhouse, and Summerhouse.
 It compares offer price, purchase price, inflation, interest, yield, and average square meter pricing.
 Interactive filters for area, city, sales type, and region help users explore detailed property trends.
+
 ![image](https://github.com/MuralidharChidarala/Housing-Analysis/blob/ee544400099b7e238a0afd5c78668a9e8ace5afc/Page3.png)
 ## Sales Analysis
 > This dashboard presents regional sales performance with Zeeland leading total sales revenue.
 It includes key influencers, transaction records, offer-to-SQM ratio, and average price per square meter by region.
 The visuals help identify top-performing sales types, pricing patterns, and regional market strength.
+
 ![image](https://github.com/MuralidharChidarala/Housing-Analysis/blob/dcbd02a53897b1e4e8b91b77562459c41df17770/Page2.png)
 ## House Type Analysis
 > This dashboard provides a high-level overview of the housing market using key KPIs and trends.
 It highlights units sold, 12-month sales, offer vs purchase price relationship, and median sales price changes by region.
 The YOY sales growth chart helps track performance across different sales types over time.
+
 ![image](https://github.com/MuralidharChidarala/Housing-Analysis/blob/243c538a0d2fff031633e8ffcf5746e2a676ac49/Page1.png)
 
 
